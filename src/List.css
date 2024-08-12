@@ -1,0 +1,19 @@
+.lists{
+    padding-top: 3vh;
+    display: flex;
+    gap: 3vh;
+    justify-content: center;
+}
+.btn{
+    width: 9vh;
+    border-radius: 2vh;
+    height: 4vh;
+    border: 0.5vh solid grey;
+    cursor: pointer;
+    
+}
+.btn:hover{
+    background-color: black;
+    color:white;
+    transform: scale(1.05);
+}
